@@ -1,0 +1,35 @@
+{
+  "name": "hlx-element-theme",
+  "version": "2.7.2",
+  "description": "Hyperlex Element-UI theme.",
+  "main": "lib/index.css",
+  "style": "lib/index.css",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperlex/hlx-element-theme"
+  },
+  "keywords": [
+    "element",
+    "theme"
+  ],
+  "author": "contact@hyperlex.ai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyperlex/hlx-element-theme/issues"
+  },
+  "homepage": "https://github.com/hyperlex/hlx-element-theme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {}
+}
