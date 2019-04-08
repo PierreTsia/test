@@ -1,5 +1,5 @@
 {
-  "name": "hlx-element-theme",
+  "name": "element-theme-hlx",
   "version": "2.7.2",
   "description": "Hyperlex Element-UI theme.",
   "main": "lib/index.css",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/hyperlex/hlx-element-theme#readme",
   "devDependencies": {
+    "element-theme-chalk": "^2.7.2",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-cssmin": "^0.1.7",
